@@ -15,6 +15,8 @@ in ECCV 2020 (Oral Presentation, Best Paper Honorable Mention)
 
 <img src='imgs/pipeline.jpg'/>
 
+[AI Sample](https://keras.io/examples/vision/nerf/)
+
 ## TL;DR quickstart
 
 To setup a conda environment, download example training data, begin the training process, and launch Tensorboard:
